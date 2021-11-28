@@ -76,18 +76,17 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports",beIN Sports English 01 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80024
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689287
 #EXTINF:-1 group-title="Sports",beIN Sports English 02 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80023
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/682942
 #EXTINF:-1 group-title="Sports",beIN Sports Premium 01 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80020
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689288
 #EXTINF:-1 group-title="Sports",beIN Sports Premium 02 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80019
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689289
 #EXTINF:-1 group-title="Sports",beIN Sports Premium 03 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80018
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/687794
 #EXTINF:-1   group-title="beIN Sports",Bein sp 6
-http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
-
+http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/682912
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kgj5v9F.png" group-title="Sports",Star Sports Select 1 HD
 http://opplex.tv:8080/live/996644/996644/109993.m3u8
@@ -197,3 +196,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:0 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",Edge Sports
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
+
+
