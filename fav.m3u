@@ -75,6 +75,10 @@ http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
 
+#EXTINF:1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
+http://188.40.68.167/russia/cartoon/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Sports",beIN Sports English 01 HD
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689287
 #EXTINF:-1 group-title="Sports",beIN Sports English 02 HD
@@ -87,6 +91,28 @@ http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689289
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/687794
 #EXTINF:-1   group-title="beIN Sports",Bein sp 6
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/682912
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 1 working HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+#EXTINF: -1 group-title="", STAR SPORTS 2 working
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43607
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 1 HD working IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1344
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 2 HD working IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1343
+#EXTINF: -1 group-title="Indian Worldwide", Star Sports 3 HD working IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1342
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 1 HD working
+http://portal.ramz123.xyz:8080/live/icaleia7/1FLxrHNvzy/43596.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 2 HD working
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43595
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 3 HD working
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD working
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43597
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kgj5v9F.png" group-title="Sports",Star Sports Select 1 HD
 http://opplex.tv:8080/live/996644/996644/109993.m3u8
