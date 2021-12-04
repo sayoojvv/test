@@ -38,3 +38,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/215
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/327
 #EXTINF:-1,BT SPORTS3 HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/328
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgj5v9F.png" group-title="Sports",Star Sports Select 1 HD
+https://236s.short.gy/DreamTV/Select_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Sports",Star Sports 2 HD
+https://236s.short.gy/DreamTV/ChSP2.m3u8
