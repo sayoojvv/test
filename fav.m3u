@@ -151,10 +151,6 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16490
 #http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Sports",Gazi TV
-https://236s.short.gy/DreamTV/Gazi_TV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
-https://236s.short.gy/DreamTV/T_Sports.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
 https://236s.short.gy/DreamTV/Ten_1.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2 HD
