@@ -187,18 +187,34 @@ https://236s.short.gy/DreamTV/Bein_1.m3u8
 https://236s.short.gy/DreamTV/Bein2.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Sports", Bein Sports 3
 https://236s.short.gy/DreamTV/Bein3.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Sports",TRT Spor
-https://tv-trt3.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png" group-title="Sports",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sports",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 tvg-logo="https://techcrunch.com/wp-content/uploads/2017/08/stadium-logo.jpg" group-title="Sports",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:0 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",Edge Sports
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Premier" tvg-logo="https://i.imgur.com/sFaXJPI.png" group-title="Latest Sports",SP: Sky Premier
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/141
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Football" tvg-logo="https://i.imgur.com/kw7vG0A.png" group-title="Latest Sports",SP: Sky Football
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/166
+#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 1
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/325
+#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 2" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 2
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/326
+#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 3
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/328
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 1" tvg-logo="https://i.imgur.com/NnqHQhU.png" group-title="Latest Sports",SP: Star Select 1
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/95
+#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 2" tvg-logo="https://i.imgur.com/QsZJc0T.png" group-title="Latest Sports",SP: Star Select 2
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/160
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 1" tvg-logo="https://i.imgur.com/GW4jg6h.jpg" group-title="Latest Sports",SP: Bein Sports 1
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 2" tvg-logo="https://i.imgur.com/YzoLesB.jpg" group-title="Latest Sports",SP: Bein Sports 2
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 3" tvg-logo="https://i.imgur.com/ScIJeAd.jpg" group-title="Latest Sports",SP: Bein Sports 3
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/154
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 4" tvg-logo="https://i.imgur.com/5C9JUlr.jpg" group-title="Latest Sports",SP: Bein Sports 4
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/153
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 11" tvg-logo="https://i.imgur.com/JeTllZs.png" group-title="Latest Sports",SP: Bein Sports 11
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
+#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 12" tvg-logo="https://i.imgur.com/SKJ6C3Q.png" group-title="Latest Sports",SP: Bein Sports 12
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/165
 
 
 
