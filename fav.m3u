@@ -82,19 +82,12 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
 http://188.40.68.167/russia/cartoon/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Sports",beIN Sports English 01 HD
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689287
-#EXTINF:-1 group-title="Sports",beIN Sports English 02 HD
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/682942
-#EXTINF:-1 group-title="Sports",beIN Sports Premium 01 FHD
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689288
-#EXTINF:-1 group-title="Sports",beIN Sports Premium 02 FHD
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/689289
-#EXTINF:-1 group-title="Sports",beIN Sports Premium 03 FHD
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/687794
-#EXTINF:-1   group-title="beIN Sports",Bein sp 6
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/682912
+#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="BT Sports",SP: BT Sports 1
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/325
+#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 2" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="BT Sports",SP: BT Sports 2
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/326
+#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="BT Sports",SP: BT Sports 3
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/328
 
 #EXTINF:-1 group-title="CRICKET", tvg-logo="Logo Na" , jio Cricket HD
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_Hindi&q=400&e=junk.m3u8
