@@ -199,10 +199,6 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/325
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/326
 #EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 3
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/328
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 1" tvg-logo="https://i.imgur.com/NnqHQhU.png" group-title="Latest Sports",SP: Star Select 1
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/95
-#EXTINF:-1 tvg-id="" tvg-name="SP: Star Select 2" tvg-logo="https://i.imgur.com/QsZJc0T.png" group-title="Latest Sports",SP: Star Select 2
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/160
 #EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 1" tvg-logo="https://i.imgur.com/GW4jg6h.jpg" group-title="Latest Sports",SP: Bein Sports 1 Ar
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
 #EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 2" tvg-logo="https://i.imgur.com/YzoLesB.jpg" group-title="Latest Sports",SP: Bein Sports 2 Ar
@@ -217,4 +213,13 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/165
 
 
-
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD
+http://195.201.82.32:5001/play/a027
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1 Hindi HD
+http://195.201.82.32:5001/play/a026
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD
+http://195.201.82.32:5001/play/a024
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports Select 1 HD
+http://195.201.82.32:5001/play/a02b
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Sports",Star Sports Select 2 HD
+http://195.201.82.32:5001/play/a02c
