@@ -189,29 +189,48 @@ https://236s.short.gy/DreamTV/Bein2.m3u8
 https://236s.short.gy/DreamTV/Bein3.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Premier" tvg-logo="https://i.imgur.com/sFaXJPI.png" group-title="Latest Sports",SP: Sky Premier
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/141
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Football" tvg-logo="https://i.imgur.com/kw7vG0A.png" group-title="Latest Sports",SP: Sky Football
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/166
-#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 1
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/325
-#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 2" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 2
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/326
-#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="Latest Sports",SP: BT Sports 3
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/328
-#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 1" tvg-logo="https://i.imgur.com/GW4jg6h.jpg" group-title="Latest Sports",SP: Bein Sports 1 Ar
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
-#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 2" tvg-logo="https://i.imgur.com/YzoLesB.jpg" group-title="Latest Sports",SP: Bein Sports 2 Ar
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
-#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 3" tvg-logo="https://i.imgur.com/ScIJeAd.jpg" group-title="Latest Sports",SP: Bein Sports 3 Ar
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/154
-#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 4" tvg-logo="https://i.imgur.com/5C9JUlr.jpg" group-title="Latest Sports",SP: Bein Sports 4 Ar
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/153
-#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 11" tvg-logo="https://i.imgur.com/JeTllZs.png" group-title="Latest Sports",SP: Bein Sports 1 English
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
-#EXTINF:-1 tvg-id="" tvg-name="SP: Bein Sports 12" tvg-logo="https://i.imgur.com/SKJ6C3Q.png" group-title="Latest Sports",SP: Bein Sports 2 English
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/165
-
+#EXTINF:0,|AR| beIN SPORTS PREMIUM SD1
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/3126
+#EXTINF:0,|AR| beIN SPORTS PREMIUM SD2
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/3127
+#EXTINF:0,|AR| beIN SPORTS 3 PREMIUM SD
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/3128
+#EXTINF:0,BT Sport 1 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6629
+#EXTINF:0,BT Sport 1 HD (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6630
+#EXTINF:0,BT Sport 2 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6631
+#EXTINF:0,BT Sport 2 HD (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6632
+#EXTINF:0,BT SPORT 3 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6633
+#EXTINF:0,BT Sport Europe (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6634
+#EXTINF:0,BT Sport europe HD (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6635
+#EXTINF:0,BT Sport eXtra 1 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6636
+#EXTINF:0,BT Sport eXtra2 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6637
+#EXTINF:0,BT Sport eXtra3 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6638
+#EXTINF:0,BT Sport eXtra4 (UK)
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6639
 
 #EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD
 http://195.201.82.32:5001/play/a027
