@@ -231,6 +231,16 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6638
 #EXTINF:0,BT Sport eXtra4 (UK)
 #EXTVLCOPT:network-caching=1000
 http://tv1.live:25461/star7arab/WtnJQObFQO/6639
+#EXTINF:0,DE: Sky Sport Austria
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6889
+#EXTINF:0,DE: Sky Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6890
+#EXTINF:0,DE: Sky Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tv1.live:25461/star7arab/WtnJQObFQO/6891
+
 
 #EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD
 http://195.201.82.32:5001/play/a027
