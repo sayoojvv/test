@@ -6,6 +6,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  group-title="Movies",STAR WORLD
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:0 group-title="Movies",Sony Pix HD
+http://195.201.82.32:5001/play/a02o
 #EXTINF:-1  group-title="Movies",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Movies",HBO
