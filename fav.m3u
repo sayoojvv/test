@@ -140,17 +140,6 @@ http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65335
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/97133
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16488
-#http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="Sports",BT Sports 2
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16489
-#http://93.152.174.144:4000/play/btsport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports",BT Sports 3
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/16490
-#http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
@@ -191,58 +180,6 @@ https://236s.short.gy/DreamTV/Bein2.m3u8
 https://236s.short.gy/DreamTV/Bein3.m3u8
 
 
-#EXTINF:0,|AR| beIN SPORTS PREMIUM SD1
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/3126
-#EXTINF:0,|AR| beIN SPORTS PREMIUM SD2
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/3127
-#EXTINF:0,|AR| beIN SPORTS 3 PREMIUM SD
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/3128
-#EXTINF:0,BT Sport 1 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6629
-#EXTINF:0,BT Sport 1 HD (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6630
-#EXTINF:0,BT Sport 2 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6631
-#EXTINF:0,BT Sport 2 HD (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6632
-#EXTINF:0,BT SPORT 3 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6633
-#EXTINF:0,BT Sport Europe (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6634
-#EXTINF:0,BT Sport europe HD (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6635
-#EXTINF:0,BT Sport eXtra 1 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6636
-#EXTINF:0,BT Sport eXtra2 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6637
-#EXTINF:0,BT Sport eXtra3 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6638
-#EXTINF:0,BT Sport eXtra4 (UK)
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6639
-#EXTINF:0,DE: Sky Sport Austria
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6889
-#EXTINF:0,DE: Sky Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6890
-#EXTINF:0,DE: Sky Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://tv1.live:25461/star7arab/WtnJQObFQO/6891
-
 #EXTINF:-1, beIN SPORTS English 1 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 
@@ -254,4 +191,19 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 
 #EXTINF:-1, beIN SPORTS English 3 🇬🇧
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
+#EXTINF:-1,PPV Fut1 ENG
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+
+#EXTINF:-1,PPV Fut2 ENG
+http://cdn2.cyclingnews.live/hls/P2.m3u8
+
+#EXTINF:-1,PPV Fut3 ENG
+http://cdn2.cyclingnews.live/hls/P3.m3u8
+
+#EXTINF:-1,PPV Fut4 ENG
+http://cdn3.cyclingnews.live/hls/W1.m3u8
+
+#EXTINF:-1,PPV Fut5 ENG
+http://cdn3.cyclingnews.live/hls/W2.m3u8
 
