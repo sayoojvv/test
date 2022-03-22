@@ -84,62 +84,6 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
 http://188.40.68.167/russia/cartoon/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 1" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="BT Sports",SP: BT Sports 1
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/325
-#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 2" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="BT Sports",SP: BT Sports 2
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/326
-#EXTINF:-1 tvg-id="" tvg-name="SP: BT Sports 3" tvg-logo="https://i.imgur.com/Kmo2R56.png" group-title="BT Sports",SP: BT Sports 3
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/328
-
-#EXTINF:-1 group-title="CRICKET", tvg-logo="Logo Na" , jio Cricket HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_Hindi&q=400&e=junk.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="CRICKET", Live Sports 2
-https://localiptv.tk/Local_IPTV_PLAYLIST/paytm_t20_Trophy/IND_VS_NZ/JIO_CRICKET_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kgj5v9F.png" group-title="Sports",Star Sports Select 1 HD
-http://opplex.tv:8080/live/996644/996644/109993.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Sports",Star Sports 2 HD
-http://ipflix.click:8080/live/higuffh9h/gme3hk874p/397844.m3u8
-
-#EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",Star Sports 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
-
-#EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports",Star Sports 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
-
-#EXTINF:-1 tvg-id="SonySixHD.in" tvg-name="Sony Six" tvg-logo="https://1.bp.blogspot.com/-eZASEoCAOvc/YSt3aCXJNpI/AAAAAAAAA-Q/bUDbdeLcfzwEWlmqd8AebdoNfmn-yGn2gCLcBGAsYHQ/s200/images%252823%2529.jpeg" group-title="sports" ,Sony Six
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
-#EXTINF:-1 tvg-id="TenHD.in" tvg-name="Sony Ten 1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="sports",Sony Ten 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#EXTINF:-1 tvg-id="TenAction.in" tvg-name="Sony Ten 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="sports",Sony Ten 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Sony Ten 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="sports",Sony Ten 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
-http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/43.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QoBYskI.png" group-title="INDIAN SPORTS",Star Sports 3
-http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/12196
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select 1
-http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/12551
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uc09Pq.png" group-title="INDIAN SPORTS",Star Sports Select 2
-http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/11955
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-cricket-us-au.png" group-title="Sports",Fox Cricket 501
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65800
-https://bit.ly/3G3Zj23
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png" group-title="Sports",Star Sports 1
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65334
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png" group-title="Sports",Star Sports 2
-http://fringeiptv.ddns.net:2086/eamonbrady@gmail.com/sC1i5g82bQ/65335
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
-http://cdn.ayproviders.xyz:80/5pGVkVqdsU/yXAN40er8M/97133
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/pFgUCZF.png",Star Sports Select 2 HD
 http://103.159.4.38:9090/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MQ5jhMz.png",Star Sports 1 HD
